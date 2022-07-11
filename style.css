@@ -20,7 +20,7 @@
   height: 40px;
   background-image: url(./images/cactus.png);
   background-size: 20px 40px;
-  animation: cactusMov 1s infinite linear;
+  animation: cactusMov 2s infinite linear;
 }
 @keyframes cactusMov {
   0% {
