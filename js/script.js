@@ -17,6 +17,6 @@ let isAlive = setInterval(function () {
     window.getComputedStyle(cactus).getPropertyValue("left")
   );
   if (cactusLeft < 50 && cactusLeft > 0 && dinoTop >= 140) {
-    alert("Game Over");
+    alert("Game OveR");
   }
 }, 10);
